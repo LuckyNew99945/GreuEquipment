@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "backhoe",
+      "price": "150000",
+      "image": "/assets/product/backhoe.png"
+    },
+
+    {
+      "id": "2",
+      "title": "crane",
+      "price": "250000",
+      "image": "/assets/product/crane.png"
+    },
+    {
+      "id": "3",
+      "title": "excavator",
+      "price": "175000",
+      "image": "/assets/product/excavator.png"
+    },
+    {
+      "id": "4",
+      "title": "grader",
+      "price": "150000",
+      "image": "/assets/product/grader.png"
+    },
+    {
+      "id": "5",
+      "title": "loader",
+      "price": "125000",
+      "image": "/assets/product/loader.png"
+    },
+    {
+      "id": "6",
+      "title": "bulldozer",
+      "price": "150000",
+      "image": "/assets/product/bulldozer.png"
+    },
+    {
+      "id": "7",
+      "title": "trencher",
+      "price": "150000",
+      "image": "/assets/product/trencher.png"
+    },
+    {
+      "id": "8",
+      "title": "compactor",
+      "price": "150000",
+      "image": "/assets/product/compactor.png"
+    }
+  ]
+}
